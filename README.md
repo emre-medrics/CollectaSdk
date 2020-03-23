@@ -1,1 +1,1 @@
-# CollectaSdk
+# CollectaSdk iOS Framework

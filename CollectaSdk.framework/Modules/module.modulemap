@@ -1,0 +1,11 @@
+framework module CollectaSdk {
+  umbrella header "CollectaSdk.h"
+
+  export *
+  module * { export * }
+}
+
+module CollectaSdk.Swift {
+    header "CollectaSdk-Swift.h"
+    requires objc
+}
