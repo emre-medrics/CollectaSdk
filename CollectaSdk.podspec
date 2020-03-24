@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
     s.name         = "CollectaSdk"
     s.version      = "0.0.3"
     s.summary      = "Coronavirus disease (COVID-19) Self Assessment"
-    s.description      = 'Solution to help support and supplement current tracing efforts of Covid-19 infected individual's location history and digitally gathering inquiries of potential infected individuals.'
+    s.description      = 'Solution to help support and supplement current tracing efforts of Covid-19 infected individual\'s location history and digitally gathering inquiries of potential infected individuals.'
 
     s.homepage     = "http://medrics.us/"
     s.license = { :type => 'Copyright', :text => <<-LICENSE
